@@ -30,5 +30,5 @@ elif shape == 'Triangle':
     print('Output Area: ', area)
 
 else:
-    area = none
+    area = None
     print('Invalid shape.')
