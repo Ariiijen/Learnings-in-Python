@@ -14,4 +14,4 @@ cash = int(input("Cash: "))
 change = cash - dp
 print("Change: ", change)
 
-print("Thanks for purchasing, have a great day ahead!")
+print("Thanks for purchasing.")
