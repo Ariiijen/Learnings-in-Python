@@ -44,7 +44,6 @@ while True:
     print("2.  Deposit Funds")
     print("3.  Withdraw Funds")
     print("4.  View Account Details")
-    print("5.  Exit")
     print("=" * 40)
 
     choice = input(" Enter your choice: ")
