@@ -1,10 +1,10 @@
 print('Menu:')
-print('=====Snacks=====')
+print('======Snacks======')
 print('1. Cheesy Burger Meal')
 print('2. Crunchy Chicken Sandwich')
 print('3. Jolly Hotdog Meal')
 
-print('\n=====Meals=====')
+print('\n======Meals======')
 print('1. Burger Steak')
 print('2. Chickenjoy Rice Meal')
 print('3. Cornedbeef Breakfast Meal')
